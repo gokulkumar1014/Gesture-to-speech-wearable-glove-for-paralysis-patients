@@ -1,0 +1,1 @@
+# Gesture-to-speech-wearable-glove-for-paralysis-patients
