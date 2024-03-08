@@ -1,1 +1,7 @@
 # Gesture-to-speech-wearable-glove-for-paralysis-patients
+## Overview:
+The intention behind proposing this project is to help the paralyzed people ask for assistance with mere hand movement. The device proposed in this project could convert
+hand gestures to voice commands and also notify the caretakers who are some distance away when the patient is in need. This project is a novel idea because there is no room for error since they are hard coded messages. The patients may or may not be speech impaired.
+
+## Description:
+The novelty of our project is in the fact that our proposed system is a hybrid of the previously quoted techniques. It has simplicity and definite results. This device helps paralysis patients. Due to paralysis, patients are not able to move their body parts, and also it is very difficult for them to talk with other people for their need for help. When in need, hand movements will pass on the information to the caretakers. Hence our project will help them to convey their messages to doctors or family members. This project is the solution to the problem because the message is conveyed with the least effort Identify applicable funding agency here. If none, delete this. of the finger movement. This project can also be extended for an instance of an emergency. Here we propose a smart speaking system that helps them in conveying the message to regular people using hand motions or gestures.
